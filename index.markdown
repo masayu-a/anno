@@ -70,6 +70,15 @@ ___
 
 > 加藤 祥・浅原 正幸・山崎 誠 (2019) 「『現代日本語書き言葉均衡コーパス』新聞・書籍・雑誌データの助動詞に対する用法情報付与」『日本語学会2019年度春季大会』, pp. 169-174.
 
+
+___
+
+## 分類語彙表番号アノテーション
+
+- [BCCWJ-WLSP](https://github.com/masayu-a/BCCWJ-WLSP)
+
+> 加藤 祥・浅原 正幸・山崎 誠 (2019) 「分類語彙表番号を付与した『現代日本語書き言葉均衡コーパス』の書籍・新聞・雑誌データ」 『日本語の研究』 vol. 15, No. 2, pp. 134-141.
+
 ___
 
 ## 単語係り受けアノテーション
@@ -180,6 +189,15 @@ ___
 - BCCWJ-NEG [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
 
 > 松吉 俊. 否定の焦点情報アノテーション. 自然言語処理, Vol. 21, No. 2, pp. 249-270, 2014. https://www.jstage.jst.go.jp/article/jnlp/21/2/21_249/_pdf
+
+---
+## 情報構造アノテーション
+
+- [BCCWJ-Infostr](https://github.com/masayu-a/BCCWJ-Infostr)
+
+> 宮内拓也・浅原正幸・中川奈津子・加藤祥 (2018) 「『現代日本語書き言葉均衡コーパス』への情報構造アノテーションとその分析」 『国立国語研究所論集』 第16号, pp. 19-33. https://doi.org/10.15084/00001606
+
+> Takuya Miyauchi, Masayuki Asahara, Natsuko Nakagawa, Sachi Kato (2017), Information-Structure Annotation for the "Balanced Corpus of Contemporary Written Japanese". In: Hasida K., Pa W. (eds) Computational Linguistics. PACLING 2017. Communications in Computer and Information Science, vol 781. Springer, Singapore, https://doi.org/10.1007/978-981-10-8438-6_13
 
 ---
 ## 翻訳データ
