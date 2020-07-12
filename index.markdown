@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Annotation Data
 ---
 # アノテーションデータ
 ## 概要
@@ -102,6 +103,10 @@ ___
 - [UD Japanese-PUD (Megagon Labs 版)](https://github.com/megagonlabs/UD_Japanese-PUD)
 - [UD Japanese-Modern](https://github.com/UniversalDependencies/UD_Japanese-Modern)
 - [UD Japanese-KTC](https://github.com/UniversalDependencies/UD_Japanese-KTC)
+
+> 浅原正幸・金山博・宮尾祐介・田中貴秋・大村舞・村脇有吾・松本裕治 (2019), Universal Dependencies 日本語コーパス, 『自然言語処理』, vol. 26, no. 1, pp.3-36.  https://doi.org/10.5715/jnlp.26.3
+
+### 関連パーザ
 
 - [spaCy](https://github.com/explosion/spaCy)
 - [GiNZA](https://github.com/megagonlabs/ginza)
