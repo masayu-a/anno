@@ -37,7 +37,7 @@ ___
 
 ## サンプルに対する文体指標
 
-- [BCCWJ_LB_Stylistics-1.0.zip](https://pj.ninjal.ac.jp/corpus_center/anno/BCCWJ_LB_Stylistics-1.0.zip)
+- [BCCWJ_LB_Stylistics-1.0.zip](http://doi.org/10.15084/00003109)
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 ## BCCWJの小説会話文に対する話者情報アノテーションデータ
 
-- BCCWJ-SpeakersInfo [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)
+- BCCWJ-SpeakersInfo [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
 
 ___
 
@@ -154,7 +154,7 @@ ___
 ---
 ## 節境界アノテーション
 
-- [BCCWJ-CBL](https://pj.ninjal.ac.jp/corpus_center/anno/BCCWJ-CBL_1.0.zip)
+- [BCCWJ-CBL](http://doi.org/10.15084/0000311)
 
 ---
 ## 節境界アノテーション（意味情報付き）
