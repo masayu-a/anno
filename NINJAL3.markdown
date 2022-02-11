@@ -5,7 +5,9 @@
 layout: home
 title: NINJAL3(2016-2021)
 ---
-# アノテーションデータ
+# 「コーパスアノテーションの拡張・包括・自動化に関する基礎研究」 : Basic Research on Corpus Annotation - Extension, Integration, and Machine-aided Approaches
+
+
 ## 概要
 
  [国立国語研究所](https://www.ninjal.ac.jp/)コーパス基礎研究プロジェクト「コーパスアノテーションの拡張・包括・自動化に関する基礎研究」(H28(2016)年4月～R4(2022年3月) (1500千円/年)

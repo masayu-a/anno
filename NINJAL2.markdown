@@ -5,7 +5,8 @@
 layout: home
 title: NINJAL2(2009-2015)
 ---
-# アノテーションデータ
+# 「コーパスアノテーションの基礎研究」 : Basic Research on Corpus Annotation
+
 ## 概要
 
 [国立国語研究所](https://www.ninjal.ac.jp/)基幹型共同研究プロジェクト[「コーパスアノテーションの基礎研究」(H21(2009)年10月～H27(2015)年9月)](https://www.ninjal.ac.jp/research/project/a/anotation/) の成果物を公開するWebページです。

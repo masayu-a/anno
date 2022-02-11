@@ -6,7 +6,7 @@ layout: home
 title: NINJAL4(2022-2027)
 ---
 # アノテーションデータ
-## 概要
+## 「アノテーションデータを用いた実証的計算心理言語学」 : Evidence-based Computational Psycholinguistics Using Annotation Data
 
  [国立国語研究所](https://www.ninjal.ac.jp/)プロジェクト「アノテーションデータを用いた実証的計算心理言語学」(R4(2022)年4月～R10(2028年3月) (4500千円/年)
 
