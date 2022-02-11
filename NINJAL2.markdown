@@ -7,14 +7,11 @@ title: Annotation Data
 ---
 # アノテーションデータ
 ## 概要
-[国立国語研究所](https://www.ninjal.ac.jp/)のアノテーションプロジェクトの成果物を公開するWebページです。
 
-- [国立国語研究所](https://www.ninjal.ac.jp/)プロジェクト「アノテーションデータを用いた実証的計算心理言語学」(R4(2022)年4月～R10(2028年3月) (4500千円/年)
+[国立国語研究所](https://www.ninjal.ac.jp/)基幹型共同研究プロジェクト[「コーパスアノテーションの基礎研究」(H21(2009)年10月～H27(2015)年9月)](https://www.ninjal.ac.jp/research/project/a/anotation/) の成果物を公開するWebページです。
 
-- [国立国語研究所](https://www.ninjal.ac.jp/)コーパス基礎研究プロジェクト「コーパスアノテーションの拡張・包括・自動化に関する基礎研究」(H28(2016)年4月～R4(2022年3月) (1500千円/年)
-
-- [国立国語研究所](https://www.ninjal.ac.jp/)基幹型共同研究プロジェクト[「コーパスアノテーションの基礎研究」(H21(2009)年10月～H27(2015)年9月)](https://www.ninjal.ac.jp/research/project/a/anotation/)
-   - 
+成果物はアノテーションデータ・論文・ドキュメントからなります。
+[プロジェクト成果物一覧](https://docs.google.com/spreadsheets/d/1eU2wPzLoyNkkHhrc2Vwn8tqbBq_SA7t4b8q03K0WhoE/pubhtml?widget=true&headers=false)
 
 プロジェクト期間外に作成されたデータもこちらに掲載します
 ___
