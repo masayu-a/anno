@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Annotation Data
+title: NINJAL3
 ---
 # アノテーションデータ
 ## 概要

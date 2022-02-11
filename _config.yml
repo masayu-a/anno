@@ -23,7 +23,7 @@ author:
   name: Masayuki Asahara
   email: masayu-a@ninjal.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  国立国語研究所基幹型共同研究プロジェクト「コーパスアノテーションの基礎研究」(H21(2009)年10月～H27(2015)年9月) の成果物を公開するWebページです。
+  国立国語研究所のアノテーションプロジェクトの成果物を公開するWebページです。
   成果物はアノテーションデータ・論文・ドキュメントからなります。  
 baseurl: "/anno" # the subpath of your site, e.g. /blog
 url: "https://masayu-a.github.io" # the base hostname & protocol for your site, e.g. http://example.com
