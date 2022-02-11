@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 共同研究プロジェクト「コーパスアノテーションの基礎研究」
+title: 国語研共同研究プロジェクト「アノテーション」
 author:
   name: Masayuki Asahara
   email: masayu-a@ninjal.ac.jp

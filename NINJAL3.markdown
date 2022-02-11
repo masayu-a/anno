@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: NINJAL3
+title: NINJAL3(2016-2021)
 ---
 # アノテーションデータ
 ## 概要

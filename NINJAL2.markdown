@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: NINJAL2
+title: NINJAL2(2009-2015)
 ---
 # アノテーションデータ
 ## 概要
@@ -14,7 +14,8 @@ title: NINJAL2
 [プロジェクト成果物一覧](https://docs.google.com/spreadsheets/d/1eU2wPzLoyNkkHhrc2Vwn8tqbBq_SA7t4b8q03K0WhoE/pubhtml?widget=true&headers=false)
 
 プロジェクト期間外に作成されたデータもこちらに掲載します
-___
+
+---
 
 ## サンプルデータの公開について
 BCCWJ のサンプルデータは、原著者に著作権があり DVD を購入していない方への再配布はできません。
@@ -25,7 +26,7 @@ BCCWJ のサンプルデータは、原著者に著作権があり DVD を購入
 - OW6X_00165
 - OW6X_00657
 
-___
+---
 
 ## アノテーション順序(BCCWJ)
 
@@ -33,13 +34,13 @@ BCCWJコアデータサンプルのアノテーション優先順序です。BCC
 
 - [BCCWJ-ANNOTATION-ORDER](https://github.com/masayu-a/BCCWJ-ANNOTATION-ORDER)
 
-___
+---
 
 ## サンプルに対する文体指標
 
 - [BCCWJ_LB_Stylistics-1.0.zip](http://doi.org/10.15084/00003109)
 
-___
+---
 
 ## 書籍サンプルのNDC情報増補
 
@@ -47,13 +48,13 @@ ___
 
 > 加藤 祥・森山 奈々美・浅原 正幸 (2019) 「『現代日本語書き言葉均衡コーパス』書籍サンプルのNDC情報増補」『言語資源活用ワークショップ2019 発表論文集』, pp.155-160
 
-___
+---
 
 ## BCCWJの小説会話文に対する話者情報アノテーションデータ
 
 - BCCWJ-SpeakersInfo [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
 
-___
+---
 
 ## れる・られる用法アノテーション
 
@@ -61,7 +62,7 @@ ___
 
 > 小山田由紀・柏野和佳子・前川喜久雄 (2012)．「助動詞レル・ラレルへの意味アノテーション作業経過報告」 第 2 回コーパス日本語学ワークショップ予稿集．p.p.59-68.
 
-___
+---
 
 ## 助動詞用法アノテーション
 
@@ -72,7 +73,7 @@ ___
 > 加藤 祥・浅原 正幸・山崎 誠 (2019) 「『現代日本語書き言葉均衡コーパス』新聞・書籍・雑誌データの助動詞に対する用法情報付与」『日本語学会2019年度春季大会』, pp. 169-174.
 
 
-___
+---
 
 ## 分類語彙表番号アノテーション
 
@@ -80,7 +81,7 @@ ___
 
 > 加藤 祥・浅原 正幸・山崎 誠 (2019) 「分類語彙表番号を付与した『現代日本語書き言葉均衡コーパス』の書籍・新聞・雑誌データ」 『日本語の研究』 vol. 15, No. 2, pp. 134-141.
 
-___
+---
 
 ## 単語係り受けアノテーション
 
@@ -88,7 +89,7 @@ ___
 
 - [京都大学のページ](http://plata.ar.media.kyoto-u.ac.jp/mori/research/topics/PST/NextNLP.html) リンク切れ
 
-___
+---
 
 ## 単語係り受けアノテーション (Universal Dependencies)
 
@@ -111,7 +112,7 @@ ___
 - [spaCy](https://github.com/explosion/spaCy)
 - [GiNZA](https://github.com/megagonlabs/ginza)
 
-___
+---
 
 ## 文節係り受け・並列構造アノテーション (deppara)
 
@@ -123,25 +124,25 @@ ___
 
 > 松田 寛・若狭 絢・山下 華代・大村 舞・浅原 正幸 (2020), 「UD Japanese GSD の再整備と固有表現情報付与」, 言語処理学会第26回年次大会, p.133-136.
 
-___
+---
 
 ## 時間情報・時間的順序関係アノテーション (BCCWJ-TimeBank)
 
 - BCCWJ-TimeBank
 
-___
+---
 
 ## 日本語フレームネットアノテーション (jfn)
 
 - [慶応義塾大学のページ](http://jfn.st.hc.keio.ac.jp/)
 
-___
+---
 
 ## 述語項構造シソーラスアノテーション 
 
 - BCCWJ-PT [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
 
-___
+---
 
 ## 述語項構造アノテーション 
 

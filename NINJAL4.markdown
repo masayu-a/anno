@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: NINJAL4
+title: NINJAL4(2022-2027)
 ---
 # アノテーションデータ
 ## 概要
