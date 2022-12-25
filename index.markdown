@@ -53,6 +53,7 @@ ___
 - アノテーション
     - [『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション](https://github.com/masayu-a/BCCWJ-WLSP)
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
+        - [Asahara et al. (2002) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
 
 - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
 
@@ -60,6 +61,8 @@ ___
 - [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) 
     - [浅原正幸 (2022) 「日本語の語彙力と読み時間について」 言語処理学会第28回年次大会発表論文集 p.p.430-435](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D3-2.pdf)
     - [Masayuki Asahara (2022) "Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing", Proceedings of the Thirteenth Language Resources and Evaluation Conference](https://aclanthology.org/2022.lrec-1.555)
+- 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
+    - [加藤祥・浅原正幸（2022）「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
 - 認知実験用サーバ（構築中）
 
 ### その他
