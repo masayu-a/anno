@@ -52,7 +52,7 @@ ___
 - アノテーション
     - [『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション](https://github.com/masayu-a/BCCWJ-WLSP)
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
-        - [Asahara et al. (2002) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
+        - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
 
 - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
 
