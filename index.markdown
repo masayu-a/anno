@@ -53,7 +53,7 @@ ___
     - [『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション](https://github.com/masayu-a/BCCWJ-WLSP)
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
-
+    - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース BCCWJ-simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
 - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
 
 ### 認知班
@@ -68,7 +68,7 @@ ___
 - [『許容される二次投稿』JNLP 29(3) (2022)](https://doi.org/10.5715/jnlp.29.1037) (2022/09/15 公開)
     - 言語処理分野において、年次大会・国際会議・論文誌に投稿する際の注意点をまとめたもの。
 - [『国語研日本語ウェブコーパス』中納言搭載データ語彙表](http://doi.org/10.15084/00003666) (2022/10/25 公開)
-- [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)]
+- [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)
     - 言語処理学会論文誌「自然言語処理」の査読において剽窃検知ツールを導入するとともに、「自然言語処理」全巻号全記事を Similarity Check Database に登録した。(2022/12/25)
 
 ___
