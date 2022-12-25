@@ -72,10 +72,10 @@ ___
     - [LREC-2022 Corpora and Annotation Area Chair](https://lrec2022.lrec-conf.org/en/committees/area-chairs/) 
     - [AACL-IJCNLP 2022 Resources and Evaluation Senior Area Chair](https://www.aacl2022.org/Committee/Senior-Area-Chairs)
     - [言語処理学会論文誌副編集長](https://www.anlp.jp/guide/editors.html)
-    - [『許容される二次投稿』JNLP 29(3) (2022)](https://doi.org/10.5715/jnlp.29.1037) (2022/09/15 公開)
-        - 言語処理分野において、年次大会・国際会議・論文誌に投稿する際の注意点をまとめたもの。
-    - [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)
-        - 言語処理学会論文誌「自然言語処理」の査読において剽窃検知ツールを導入するとともに、「自然言語処理」全巻号全記事を Similarity Check Database に登録した。(2022/12/25)
+        - [『許容される二次投稿』JNLP 29(3) (2022)](https://doi.org/10.5715/jnlp.29.1037) (2022/09/15 公開)
+            - 言語処理分野において、年次大会・国際会議・論文誌に投稿する際の注意点をまとめたもの。
+        - [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)
+            - 言語処理学会論文誌「自然言語処理」の査読において剽窃検知ツールを導入するとともに、「自然言語処理」全巻号全記事を Similarity Check Database に登録した。(2022/12/25)
 - 国語研日本語ウェブコーパス
     - [『国語研日本語ウェブコーパス』中納言搭載データ語彙表](http://doi.org/10.15084/00003666) (2022/10/25 公開)
 - イベント
