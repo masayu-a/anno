@@ -75,7 +75,7 @@ ___
     - 言語処理学会論文誌「自然言語処理」の査読において剽窃検知ツールを導入するとともに、「自然言語処理」全巻号全記事を Similarity Check Database に登録した。(2022/12/25)
 - イベント
     - [Evidence-based Linguistics Workshop](https://masayu-a.github.io/ELW/)
-        - [Evidence-based Linguistics Workshop](https://masayu-a.github.io/ELW/ELW2022/)
+        - [Evidence-based Linguistics Workshop 2022](https://masayu-a.github.io/ELW/ELW2022/)
 ___ - 「日本語における評価用データセットの構築と利用性の向上」
         - [日本語における評価用データセットの構築と利用性の向上 (JED2022)](https://jedworkshop.github.io/jed2022/) (2022/03/18)
         - [「日本語における評価用データセットの構築と利用性の向上」分科会](https://masayu-a.github.io/ELW/ELW2022/JED.html) (2022/09/07)
