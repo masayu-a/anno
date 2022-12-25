@@ -27,13 +27,12 @@ ___
 
 - [https://universaldependencies.org/](https://universaldependencies.org/)
 - [UD Japanese](https://universaldependencies.org/#japanese-treebanks)
-- [Universal Dependencies ドキュメント（日本語版）](https://masayu-a.github.io/UD_Japanese-docs/)
+    - [Universal Dependencies ドキュメント（日本語版）](https://masayu-a.github.io/UD_Japanese-docs/)
+    - [『Universal Dependencies 日本語コーパス』JNLP 26(1) (2019)](https://doi.org/10.5715/jnlp.26.3)	
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
 - [spaCy](https://spacy.io/)
 - [GiNZA](https://megagonlabs.github.io/ginza/)
-- 論文
-    - [『Universal Dependencies 日本語コーパス』JNLP 26(1) (2019)](https://doi.org/10.5715/jnlp.26.3)	
-
+    
 - [『現代語の助詞・助動詞』分類語彙表番号付与版](http://doi.org/10.15084/00003667) (2022/10/25 公開)
 - [『形容詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003665)　(2022/10/25 公開)
 - [『動詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003668) (2022/10/25 公開)
