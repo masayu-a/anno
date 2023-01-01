@@ -37,6 +37,9 @@ ___
 - [『現代語の助詞・助動詞』分類語彙表番号付与版](http://doi.org/10.15084/00003667) (2022/10/25 公開)
 - [『形容詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003665)　(2022/10/25 公開)
 - [『動詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003668) (2022/10/25 公開)
+- [CEJC-DEP](https://github.com/masayu-a/CEJC-DEP/) (2023/01/01 公開)
+- [UD_Japanese-CEJCLUW](https://github.com/udjapanese/UD_Japanese-CEJCLUW) (v2.11 2023/01/01 公開)
+- [UD_Japanese-CEJCSUW](https://github.com/udjapanese/UD_Japanese-CEJCSUW) (v2.11 2023/01/01 公開)
  
 ### 意味班
 
