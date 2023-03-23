@@ -23,7 +23,7 @@ ___
 ## 第４期アノテーションプロジェクト成果物
 
 
-### 統語班
+### 統語班（企業との共同研究も含む）
 
 - [https://universaldependencies.org/](https://universaldependencies.org/)
 - [UD Japanese](https://universaldependencies.org/#japanese-treebanks)
@@ -32,9 +32,7 @@ ___
     - [大村舞・若狭絢・浅原正幸「国語研長単位に基づく日本語 Universal Dependencies」JNLP 30(1) (2023)](https://doi.org/10.5715/jnlp.30.4)
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
 - [日本経済新聞記事オープンコーパス](https://nkbb.nikkei.co.jp/alternative/corpus/)(2023/03/13 公開)
-- [spaCy](https://spacy.io/)
-- [GiNZA](https://megagonlabs.github.io/ginza/)
-    
+    - [プレスリリース] 
 - [『現代語の助詞・助動詞』分類語彙表番号付与版](http://doi.org/10.15084/00003667) (2022/10/25 公開)
 - [『形容詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003665)　(2022/10/25 公開)
 - [『動詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003668) (2022/10/25 公開)
@@ -42,6 +40,24 @@ ___
 - [UD_Japanese-CEJCLUW](https://github.com/udjapanese/UD_Japanese-CEJCLUW) (v2.11 2023/01/01 公開)
 - [UD_Japanese-CEJCSUW](https://github.com/udjapanese/UD_Japanese-CEJCSUW) (v2.11 2023/01/01 公開)
  
+#### リクルート社
+- [spaCy](https://spacy.io/)
+    - [spaCy 長単位モデル](https://github.com/megagonlabs/UD_Japanese-GSD/releases/tag/r2.9-NE)
+- [GiNZA](https://megagonlabs.github.io/ginza/)
+    - [blog](https://www.recruit.co.jp/newsroom/2020/0817_18783.html) (2020/08/17) プレスリリースを含む
+
+#### LegalOn社
+- [vaporetto](https://github.com/daac-tools/vaporetto)
+    - [blog](https://tech.legalforce.co.jp/entry/2021/09/28/180844) (2021/09/28)
+- [vibrato](https://github.com/daac-tools/vibrato)
+    - [blog](https://tech.legalforce.co.jp/entry/2022/09/20/133132) (2022/09/20)
+
+#### ワークスアプリケーションズ社
+- [chiVe](https://github.com/WorksApplications/chiVe)
+    - [プレスリリース](https://prtimes.jp/main/html/rd/p/000000178.000011485.html) (2020/10/09) 
+- [chiTra](https://github.com/WorksApplications/SudachiTra)
+    - [プレスリリース](https://www.worksap.co.jp/news/2022/0225/) (2022/02/25)
+
 ### 意味班
 
 - [分類語彙表の紹介](https://clrd.ninjal.ac.jp/goihyo.html)
@@ -72,7 +88,7 @@ ___
 - 認知実験用サーバ（構築中）
 
 ### その他
-- 学会関連
+#### 学会関連
     - [LREC-2022 Corpora and Annotation Area Chair](https://lrec2022.lrec-conf.org/en/committees/area-chairs/) 
     - [AACL-IJCNLP 2022 Resources and Evaluation Senior Area Chair](https://www.aacl2022.org/Committee/Senior-Area-Chairs)
     - [言語処理学会論文誌副編集長](https://www.anlp.jp/guide/editors.html)
@@ -80,9 +96,9 @@ ___
             - 言語処理分野において、年次大会・国際会議・論文誌に投稿する際の注意点をまとめたもの。
         - [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)
             - 言語処理学会論文誌「自然言語処理」の査読において剽窃検知ツールを導入するとともに、「自然言語処理」全巻号全記事を Similarity Check Database に登録した。(2022/12/25)
-- 国語研日本語ウェブコーパス
+#### 国語研日本語ウェブコーパス
     - [『国語研日本語ウェブコーパス』中納言搭載データ語彙表](http://doi.org/10.15084/00003666) (2022/10/25 公開)
-- イベント
+#### イベント
     - [Evidence-based Linguistics Workshop](https://masayu-a.github.io/ELW/)
         - [Evidence-based Linguistics Workshop 2022](https://masayu-a.github.io/ELW/ELW2022/)
     - 「日本語における評価用データセットの構築と利用性の向上」
@@ -92,7 +108,12 @@ ___
     - 言語学フェス
         - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
 
-- 共同研究関連
+#### LINE 社 共同研究
+- [日本語有害表現スキーマの提案と評価](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-1.pdf) NLP2023 小林様ほか (2023/03/13-2023/03/17)
+- [語彙と品質を考慮したデータ水増しの言語教育支援への適用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H8-1.pdf) NLP2023 中町様ほか (2023/03/13-2023/03/17)
+
+#### ホンダリサーチインスティチュート 共同研究
+- [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
 
 ## 第３期アノテーションプロジェクト成果物
 
