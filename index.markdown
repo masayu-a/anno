@@ -29,8 +29,9 @@ ___
 - [UD Japanese](https://universaldependencies.org/#japanese-treebanks)
     - [Universal Dependencies ドキュメント（日本語版）](https://masayu-a.github.io/UD_Japanese-docs/)
     - [浅原正幸ほか「Universal Dependencies 日本語コーパス」JNLP 26(1) (2019)](https://doi.org/10.5715/jnlp.26.3)	
-    - 大村舞・若狭絢・浅原正幸「国語研長単位に基づく日本語 Universal Dependencies」JNLP 30(1) (2023)
+    - [大村舞・若狭絢・浅原正幸「国語研長単位に基づく日本語 Universal Dependencies」JNLP 30(1) (2023)](https://doi.org/10.5715/jnlp.30.4)
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
+- [日本経済新聞記事オープンコーパス](https://nkbb.nikkei.co.jp/alternative/corpus/)(2023/03/13 公開)
 - [spaCy](https://spacy.io/)
 - [GiNZA](https://megagonlabs.github.io/ginza/)
     
@@ -90,6 +91,8 @@ ___
         - [日本語言語資源の構築と利用性の向上 (JLR2023)](https://jedworkshop.github.io/JLR2023/) (2023/03/17)
     - 言語学フェス
         - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
+
+- 共同研究関連
 
 ## 第３期アノテーションプロジェクト成果物
 
