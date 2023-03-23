@@ -9,9 +9,9 @@ title: Index
 ## 概要
 [国立国語研究所](https://www.ninjal.ac.jp/)のアノテーションプロジェクトの成果物を公開するWebページです。
 
-- 第４期：[国立国語研究所](https://www.ninjal.ac.jp/)プロジェクト「アノテーションデータを用いた実証的計算心理言語学」(R4(2022)年4月～R10(2028年3月) (4500千円/年)
+- 第４期：[国立国語研究所](https://www.ninjal.ac.jp/)プロジェクト[「アノテーションデータを用いた実証的計算心理言語学」(R4(2022)年4月～R10(2028年3月)](https://www.ninjal.ac.jp/research/cr-project/project-4/theory-typology/) (4500千円/年)
 
-- 第３期：[国立国語研究所](https://www.ninjal.ac.jp/)コーパス基礎研究プロジェクト「コーパスアノテーションの拡張・包括・自動化に関する基礎研究」(H28(2016)年4月～R4(2022年3月) (1500千円/年)
+- 第３期：[国立国語研究所](https://www.ninjal.ac.jp/)コーパス基礎研究プロジェクト[「コーパスアノテーションの拡張・包括・自動化に関する基礎研究」(H28(2016)年4月～R4(2022年3月)](https://www.ninjal.ac.jp/research/cr-project/project-3/#CORPUS) (1500千円/年)
 
 - 第２期：[国立国語研究所](https://www.ninjal.ac.jp/)基幹型共同研究プロジェクト[「コーパスアノテーションの基礎研究」(H21(2009)年10月～H27(2015)年9月)](https://www.ninjal.ac.jp/research/project/a/anotation/)
 
