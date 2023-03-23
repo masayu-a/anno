@@ -89,24 +89,26 @@ ___
 
 ### その他
 #### 学会関連
-    - [LREC-2022 Corpora and Annotation Area Chair](https://lrec2022.lrec-conf.org/en/committees/area-chairs/) 
-    - [AACL-IJCNLP 2022 Resources and Evaluation Senior Area Chair](https://www.aacl2022.org/Committee/Senior-Area-Chairs)
-    - [言語処理学会論文誌副編集長](https://www.anlp.jp/guide/editors.html)
-        - [『許容される二次投稿』JNLP 29(3) (2022)](https://doi.org/10.5715/jnlp.29.1037) (2022/09/15 公開)
-            - 言語処理分野において、年次大会・国際会議・論文誌に投稿する際の注意点をまとめたもの。
-        - [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)
+- [LREC-2022 Corpora and Annotation Area Chair](https://lrec2022.lrec-conf.org/en/committees/area-chairs/) 
+- [AACL-IJCNLP 2022 Resources and Evaluation Senior Area Chair](https://www.aacl2022.org/Committee/Senior-Area-Chairs)
+- [言語処理学会論文誌副編集長](https://www.anlp.jp/guide/editors.html)
+    - [『許容される二次投稿』JNLP 29(3) (2022)](https://doi.org/10.5715/jnlp.29.1037) (2022/09/15 公開)
+        - 言語処理分野において、年次大会・国際会議・論文誌に投稿する際の注意点をまとめたもの。
+    - [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)
             - 言語処理学会論文誌「自然言語処理」の査読において剽窃検知ツールを導入するとともに、「自然言語処理」全巻号全記事を Similarity Check Database に登録した。(2022/12/25)
+
 #### 国語研日本語ウェブコーパス
-    - [『国語研日本語ウェブコーパス』中納言搭載データ語彙表](http://doi.org/10.15084/00003666) (2022/10/25 公開)
+- [『国語研日本語ウェブコーパス』中納言搭載データ語彙表](http://doi.org/10.15084/00003666) (2022/10/25 公開)
+
 #### イベント
-    - [Evidence-based Linguistics Workshop](https://masayu-a.github.io/ELW/)
-        - [Evidence-based Linguistics Workshop 2022](https://masayu-a.github.io/ELW/ELW2022/)
-    - 「日本語における評価用データセットの構築と利用性の向上」
-        - [日本語における評価用データセットの構築と利用性の向上 (JED2022)](https://jedworkshop.github.io/jed2022/) (2022/03/18)
-        - [「日本語における評価用データセットの構築と利用性の向上」分科会](https://masayu-a.github.io/ELW/ELW2022/JED.html) (2022/09/07)
-        - [日本語言語資源の構築と利用性の向上 (JLR2023)](https://jedworkshop.github.io/JLR2023/) (2023/03/17)
-    - 言語学フェス
-        - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
+- [Evidence-based Linguistics Workshop](https://masayu-a.github.io/ELW/)
+    - [Evidence-based Linguistics Workshop 2022](https://masayu-a.github.io/ELW/ELW2022/)
+- 「日本語における評価用データセットの構築と利用性の向上」
+    - [日本語における評価用データセットの構築と利用性の向上 (JED2022)](https://jedworkshop.github.io/jed2022/) (2022/03/18)
+    - [「日本語における評価用データセットの構築と利用性の向上」分科会](https://masayu-a.github.io/ELW/ELW2022/JED.html) (2022/09/07)
+    - [日本語言語資源の構築と利用性の向上 (JLR2023)](https://jedworkshop.github.io/JLR2023/) (2023/03/17)
+- 言語学フェス
+    - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
 
 #### LINE 社 共同研究
 - [日本語有害表現スキーマの提案と評価](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-1.pdf) NLP2023 小林様ほか (2023/03/13-2023/03/17)
