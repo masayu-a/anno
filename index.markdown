@@ -27,18 +27,20 @@ ___
 
 - [https://universaldependencies.org/](https://universaldependencies.org/)
 - [UD Japanese](https://universaldependencies.org/#japanese-treebanks)
+    - [UD_Japanese-CEJCLUW](https://github.com/udjapanese/UD_Japanese-CEJCLUW) (v2.11 2023/01/01 公開)
+    - [UD_Japanese-CEJCSUW](https://github.com/udjapanese/UD_Japanese-CEJCSUW) (v2.11 2023/01/01 公開)
     - [Universal Dependencies ドキュメント（日本語版）](https://masayu-a.github.io/UD_Japanese-docs/)
     - [浅原正幸ほか「Universal Dependencies 日本語コーパス」JNLP 26(1) (2019)](https://doi.org/10.5715/jnlp.26.3)	
     - [大村舞・若狭絢・浅原正幸「国語研長単位に基づく日本語 Universal Dependencies」JNLP 30(1) (2023)](https://doi.org/10.5715/jnlp.30.4)
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
+- [CEJC-DEP](https://github.com/masayu-a/CEJC-DEP/) (2023/01/01 公開)
 - [日本経済新聞記事オープンコーパス](https://nkbb.nikkei.co.jp/alternative/corpus/) (2023/03/13 公開)
     - [プレスリリース](https://prtimes.jp/main/html/rd/p/000000502.000011115.html) (2023/03/13)
 - [『現代語の助詞・助動詞』分類語彙表番号付与版](http://doi.org/10.15084/00003667) (2022/10/25 公開)
 - [『形容詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003665)　(2022/10/25 公開)
 - [『動詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003668) (2022/10/25 公開)
-- [CEJC-DEP](https://github.com/masayu-a/CEJC-DEP/) (2023/01/01 公開)
-- [UD_Japanese-CEJCLUW](https://github.com/udjapanese/UD_Japanese-CEJCLUW) (v2.11 2023/01/01 公開)
-- [UD_Japanese-CEJCSUW](https://github.com/udjapanese/UD_Japanese-CEJCSUW) (v2.11 2023/01/01 公開)
+
+
  
 #### リクルート社
 - [spaCy](https://spacy.io/)
