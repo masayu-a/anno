@@ -47,6 +47,7 @@ ___
     - [spaCy 長単位モデル](https://github.com/megagonlabs/UD_Japanese-GSD/releases/tag/r2.9-NE)
 - [GiNZA](https://megagonlabs.github.io/ginza/)
     - [blog](https://www.recruit.co.jp/newsroom/2020/0817_18783.html) (2020/08/17) プレスリリースを含む
+    - [UD Japanese CEJC+GSD transfomers-based spaCy model](https://github.com/megagonlabs/UD_Japanese-GSD/releases/tag/nlp2023) (2023/03/24)
 
 #### LegalOn社
 - [vaporetto](https://github.com/daac-tools/vaporetto)
