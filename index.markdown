@@ -64,7 +64,8 @@ ___
 ### 意味班
 
 - [分類語彙表の紹介](https://clrd.ninjal.ac.jp/goihyo.html)
-    - [pdf](http://doi.org/10.15084/00002283) 
+    - [初版 pdf](http://doi.org/10.15084/00002267)
+    - [増補改訂版 pdf](http://doi.org/10.15084/00002283) 
     - [（2022/08/06開催 第44回NINJALチュートリアル演習資料）](http://doi.org/10.15084/00003678) (2022/11/01 公開)
 - [Cradle（分類語彙表）](https://cradle.ninjal.ac.jp/wlsp/)
 - [分類語彙表増補改訂版データベース](https://github.com/masayu-a/WLSP)
