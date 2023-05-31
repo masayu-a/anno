@@ -84,13 +84,15 @@ ___
     - Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Figurative Expression Information Database on `Balanced Corpus of Contemporary Written Japanese'", 15th Researching and Applying Metaphor Conference (2022/09/21-24)
     - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
         - 加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集 (To Appear)
+        
 ### 認知班
+
 - [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) 
     - [浅原正幸 (2022) 「日本語の語彙力と読み時間について」 言語処理学会第28回年次大会発表論文集 p.p.430-435](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D3-2.pdf)
     - [Masayuki Asahara (2022) "Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing", Proceedings of the Thirteenth Language Resources and Evaluation Conference](https://aclanthology.org/2022.lrec-1.555)
 - 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
     - [加藤祥・浅原正幸（2022）「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
-- 認知実験用サーバ（構築中）
+- 認知実験用サーバ（2023年度運用開始）
 
 ### その他
 #### 学会関連
