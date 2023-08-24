@@ -79,19 +79,23 @@ ___
     - [『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション](https://github.com/masayu-a/BCCWJ-WLSP)
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
+	- 浅原ほか (2023) 『日本語歴史コーパス』に対する分類語彙表番号アノテーションとその利用, 日本語の研究
     - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース BCCWJ-simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
         - [ 加藤祥・菊地礼・浅原正幸 「『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース」27(4) (2021)](https://doi.org/10.5715/jnlp.27.853)
     - Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Figurative Expression Information Database on `Balanced Corpus of Contemporary Written Japanese'", 15th Researching and Applying Metaphor Conference (2022/09/21-24)
     - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
-        - 加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集 (To Appear)
-        
+        - [加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000009)
+    - 加藤祥・浅原正幸「比喩指標の収集と喩辞と被喩辞の同一性否定の観点による分類」 認知科学	
+       
 ### 認知班
 
 - [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) 
     - [浅原正幸 (2022) 「日本語の語彙力と読み時間について」 言語処理学会第28回年次大会発表論文集 p.p.430-435](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D3-2.pdf)
     - [Masayuki Asahara (2022) "Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing", Proceedings of the Thirteenth Language Resources and Evaluation Conference](https://aclanthology.org/2022.lrec-1.555)
 - 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
-    - [加藤祥・浅原正幸（2022）「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
+    - [加藤祥・浅原正幸 (2022)「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
+- 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
+    - 浅原正幸・加藤祥・高松純子(2023)「『日本経済新聞記事オープンコーパス』に対する言語受容情報収集」
 - 認知実験用サーバ（2023年度運用開始）
 
 ### その他
@@ -110,6 +114,7 @@ ___
 #### イベント
 - [Evidence-based Linguistics Workshop](https://masayu-a.github.io/ELW/)
     - [Evidence-based Linguistics Workshop 2022](https://masayu-a.github.io/ELW/ELW2022/)
+    - [Evidence-based Linguistics Workshop 2023](https://masayu-a.github.io/ELW/ELW2023/)    
 - 「日本語における評価用データセットの構築と利用性の向上」
     - [日本語における評価用データセットの構築と利用性の向上 (JED2022)](https://jedworkshop.github.io/jed2022/) (2022/03/18)
     - [「日本語における評価用データセットの構築と利用性の向上」分科会](https://masayu-a.github.io/ELW/ELW2022/JED.html) (2022/09/07)
@@ -117,6 +122,10 @@ ___
 - 言語学フェス
     - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
 
+#### 科研費：[文体分析を目的としたコーパスの文書情報拡張及びその利用 (2018-2022)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K00634/)
+- [BCCWJ-PNmeta](https://github.com/masayu-a/BCCWJ-PNmeta/) (2023/08/24 version 2.0 リリース)
+    - 加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』新聞サブコーパスの記事情報付与」日本語の研究
+- [加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』の小説サンプルに対する分類情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000013)
 #### LINE 社 共同研究
 - [日本語有害表現スキーマの提案と評価](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-1.pdf) NLP2023 小林様ほか (2023/03/13-2023/03/17)
 - [語彙と品質を考慮したデータ水増しの言語教育支援への適用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H8-1.pdf) NLP2023 中町様ほか (2023/03/13-2023/03/17)
