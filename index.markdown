@@ -130,11 +130,11 @@ ___
 - [BCCWJ-PNmeta](https://github.com/masayu-a/BCCWJ-PNmeta/) (2023/08/24 version 2.0 リリース)
     - 加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』新聞サブコーパスの記事情報付与」日本語の研究
 
-#### LINE 社 共同研究
+#### LINE 社 共同研究 (2022-)
 - [日本語有害表現スキーマの提案と評価](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-1.pdf) NLP2023 小林様ほか (2023/03/13-2023/03/17)
 - [語彙と品質を考慮したデータ水増しの言語教育支援への適用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H8-1.pdf) NLP2023 中町様ほか (2023/03/13-2023/03/17)
 
-#### ホンダリサーチインスティチュート 共同研究
+#### ホンダリサーチインスティチュート 共同研究 (2022,2023)
 - [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
 
 ## 第３期アノテーションプロジェクト成果物
