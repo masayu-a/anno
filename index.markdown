@@ -123,9 +123,13 @@ ___
     - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
 
 #### 科研費：[文体分析を目的としたコーパスの文書情報拡張及びその利用 (2018-2022)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K00634/)
+- [BCCWJ-NDC](https://github.com/masayu-a/BCCWJ-NDC/) (2020/04/10 version 2.0 リリース)
+    - [加藤祥・森山奈々美・浅原正幸「『現代日本語書き言葉均衡コーパス』書籍サンプルのNDC情報増補：NDC情報を用いた随筆の抽出と文体調査」国立国語研究所論集](https://doi.org/10.15084/00003437)
+- [BCCWJ-PB9X3meta](https://github.com/masayu-a/BCCWJ-PB9X3meta/) (2023/09/03 version 1.0 リリース)    
+    - [加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』の小説サンプルに対する分類情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000013)
 - [BCCWJ-PNmeta](https://github.com/masayu-a/BCCWJ-PNmeta/) (2023/08/24 version 2.0 リリース)
     - 加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』新聞サブコーパスの記事情報付与」日本語の研究
-- [加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』の小説サンプルに対する分類情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000013)
+
 #### LINE 社 共同研究
 - [日本語有害表現スキーマの提案と評価](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-1.pdf) NLP2023 小林様ほか (2023/03/13-2023/03/17)
 - [語彙と品質を考慮したデータ水増しの言語教育支援への適用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H8-1.pdf) NLP2023 中町様ほか (2023/03/13-2023/03/17)
