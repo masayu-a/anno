@@ -77,11 +77,12 @@ ___
     - 『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション
         - [BCCWJ-WLSP](https://github.com/masayu-a/BCCWJ-WLSP) (2019/09/17 公開)
         - [BCCWJ-WLSP-AUX-OT](https://github.com/masayu-a/BCCWJ-WLSP-AUX-OT) (2023/10/05 公開)
+	- BCCWJ-WLSP-AUX-OT [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から形態論情報つきデータが得られます
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
 	- 浅原ほか (2023) 『日本語歴史コーパス』に対する分類語彙表番号アノテーションとその利用, 日本語の研究
     - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース
-        - BCCWJ-simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
+        - BCCWJ-Simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
         - [ 加藤祥・菊地礼・浅原正幸 「『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース」27(4) (2021)](https://doi.org/10.5715/jnlp.27.853)
     - Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Figurative Expression Information Database on `Balanced Corpus of Contemporary Written Japanese'", 15th Researching and Applying Metaphor Conference (2022/09/21-24)
     - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
