@@ -74,9 +74,9 @@ ___
     - [分類語彙表に対する単語親密度情報・位相情報](https://github.com/masayu-a/WLSP-familiarity)
     - [分類語彙表に対する反対語情報](https://github.com/masayu-a/WLSP-antonym)
 - アノテーション
-    - 『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション]
-            - [BCCWJ-WLSP](https://github.com/masayu-a/BCCWJ-WLSP) (2019/09/17 公開)
-            - [BCCWJ-WLSP-AUX-OT](https://github.com/masayu-a/BCCWJ-WLSP-AUX-OT) (2023/10/05 公開)
+    - 『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション
+        - [BCCWJ-WLSP](https://github.com/masayu-a/BCCWJ-WLSP) (2019/09/17 公開)
+        - [BCCWJ-WLSP-AUX-OT](https://github.com/masayu-a/BCCWJ-WLSP-AUX-OT) (2023/10/05 公開)
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
 	- 浅原ほか (2023) 『日本語歴史コーパス』に対する分類語彙表番号アノテーションとその利用, 日本語の研究
