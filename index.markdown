@@ -79,6 +79,7 @@ ___
         - [BCCWJ-WLSP-AUX-OT](https://github.com/masayu-a/BCCWJ-WLSP-AUX-OT) (2023/10/05 公開)
 	- BCCWJ-WLSP-AUX-OT [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から形態論情報つきデータが得られます
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
+        - [CHJ-WLSP](https://github.com/masayu-a/CHJ-WLSP) (2023/10/29 公開)
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
 	- 浅原ほか (2023) 『日本語歴史コーパス』に対する分類語彙表番号アノテーションとその利用, 日本語の研究
     - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース
