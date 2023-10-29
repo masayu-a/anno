@@ -87,7 +87,8 @@ ___
     - Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Figurative Expression Information Database on `Balanced Corpus of Contemporary Written Japanese'", 15th Researching and Applying Metaphor Conference (2022/09/21-24)
     - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
         - [加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000009)
-    - 加藤祥・浅原正幸「比喩指標の収集と喩辞と被喩辞の同一性否定の観点による分類」 認知科学	
+    - 加藤祥・浅原正幸「比喩指標の収集と喩辞と被喩辞の同一性否定の観点による分類」 認知科学
+    - BCCWJ-TimeBank (version 3.0.0) (2023/10/29) 中納言ダウンロードサーバより公開
        
 ### 認知班
 
