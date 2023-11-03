@@ -39,7 +39,7 @@ ___
 - [『現代語の助詞・助動詞』分類語彙表番号付与版](http://doi.org/10.15084/00003667) (2022/10/25 公開)
 - [『形容詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003665)　(2022/10/25 公開)
 - [『動詞の意味・用法の記述的研究』データベース版](http://doi.org/10.15084/00003668) (2022/10/25 公開)
-
+ 
 #### リクルート社
 - [spaCy](https://spacy.io/)
     - [spaCy 長単位モデル](https://github.com/megagonlabs/UD_Japanese-GSD/releases/tag/r2.9-NE)
@@ -96,6 +96,7 @@ ___
 - [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) 
     - [浅原正幸 (2022) 「日本語の語彙力と読み時間について」 言語処理学会第28回年次大会発表論文集 p.p.430-435](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D3-2.pdf)
     - [Masayuki Asahara (2022) "Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing", Proceedings of the Thirteenth Language Resources and Evaluation Conference](https://aclanthology.org/2022.lrec-1.555)
+- [機能表現辞書「つつじ」に対する単語親密度情報](https://github.com/masayu-a/TSUTSUJI-familiarity) (2023/11/03 公開)
 - 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
     - [加藤祥・浅原正幸 (2022)「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
 - 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
