@@ -93,18 +93,19 @@ ___
        
 ### 認知班
 
-- [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) 
+- [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) (2022/10/15 公開)
     - [浅原正幸 (2022) 「日本語の語彙力と読み時間について」 言語処理学会第28回年次大会発表論文集 p.p.430-435](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D3-2.pdf)
     - [Masayuki Asahara (2022) "Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing", Proceedings of the Thirteenth Language Resources and Evaluation Conference](https://aclanthology.org/2022.lrec-1.555)
 - [機能表現辞書「つつじ」に対する単語親密度情報](https://github.com/masayu-a/TSUTSUJI-familiarity) (2023/11/03 公開)
 - 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
     - [加藤祥・浅原正幸 (2022)「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
-- 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
-    - 浅原正幸・加藤祥・高松純子(2023)「『日本経済新聞記事オープンコーパス』に対する言語受容情報収集」
+- [『日本経済新聞記事オープンコーパス』に対する言語受容情報収集](https://www.jcss.gr.jp/meetings/jcss2023/proceedings/pdf/JCSS2023_P2-001.pdf)
+    - 浅原正幸・加藤祥・高松純子(2023)「『日本経済新聞記事オープンコーパス』に対する言語受容情報収集」2023年度日本認知科学会第40回大会 p.p. 302-305
 - 認知実験用サーバ（2023年度運用開始）
 
 ### その他
 #### 学会関連
+- [NAACL-2024 Resources and Evaluation Senior Area Chair](https://2024.naacl.org/committees/program/)
 - [LREC-2022 Corpora and Annotation Area Chair](https://lrec2022.lrec-conf.org/en/committees/area-chairs/) 
 - [AACL-IJCNLP 2022 Resources and Evaluation Senior Area Chair](https://www.aacl2022.org/Committee/Senior-Area-Chairs)
 - [言語処理学会論文誌副編集長](https://www.anlp.jp/guide/editors.html)
@@ -126,6 +127,7 @@ ___
     - [日本語言語資源の構築と利用性の向上 (JLR2023)](https://jedworkshop.github.io/JLR2023/) (2023/03/17)
 - 言語学フェス
     - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
+    - [言語学フェス2024](https://sites.google.com/view/lingfes2024) (2024/01/20)
 
 #### 科研費：[文体分析を目的としたコーパスの文書情報拡張及びその利用 (2018-2022)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K00634/)
 - [BCCWJ-NDC](https://github.com/masayu-a/BCCWJ-NDC/) (2020/04/10 version 1.0 リリース)
@@ -173,7 +175,7 @@ ___
     - [分類語彙表に対する反対語情報](https://github.com/masayu-a/WLSP-antonym)
 - アノテーション
     - [『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号アノテーション](https://github.com/masayu-a/BCCWJ-WLSP)
-    - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
+    - [『日本語歴史コーパス』に対する分類語彙表番号アノテーション](https://github.com/masayu-a/CHJ-WLSP)
 
 ___
 
