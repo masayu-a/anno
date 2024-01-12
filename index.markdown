@@ -78,6 +78,8 @@ ___
         - [BCCWJ-WLSP](https://github.com/masayu-a/BCCWJ-WLSP) (2019/09/17 公開)
         - [BCCWJ-WLSP-AUX-OT](https://github.com/masayu-a/BCCWJ-WLSP-AUX-OT) (2023/10/05 公開)
 	- BCCWJ-WLSP-AUX-OT [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から形態論情報つきデータが得られます
+    - 『現代日本語書き言葉均衡コーパス』分類語彙表番号自動解析済みデータ
+        - [BCCWJ-WSD-frequency](https://github.com/masayu-a/BCCWJ-WSD-frequency/) (2024/01/12 公開)
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
         - [CHJ-WLSP](https://github.com/masayu-a/CHJ-WLSP) (2023/10/29 公開)
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
@@ -137,9 +139,11 @@ ___
 - [BCCWJ-PNmeta](https://github.com/masayu-a/BCCWJ-PNmeta/) (2023/08/24 version 2.0 リリース)
     - 加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』新聞サブコーパスの記事情報付与」日本語の研究
 
-#### LINE 社 共同研究 (2022-)
+#### SB Intuitions社(LINE 社) 共同研究 (2022-)
 - [日本語有害表現スキーマの提案と評価](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-1.pdf) NLP2023 小林様ほか (2023/03/13-2023/03/17)
 - [語彙と品質を考慮したデータ水増しの言語教育支援への適用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/H8-1.pdf) NLP2023 中町様ほか (2023/03/13-2023/03/17)
+- [Japanese Real Toxicity Prompts: 日本語大規模言語モデルの有害性調査](https://www.ipsj.or.jp/kenkyukai/event/nl258slp149.html)
+ SIGNL258/SIGSLP149 小林様ほか (2023/12/02-04)
 
 #### ホンダリサーチインスティチュート 共同研究 (2022,2023)
 - [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
