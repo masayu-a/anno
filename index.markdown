@@ -129,6 +129,7 @@ ___
     - [日本語における評価用データセットの構築と利用性の向上 (JED2022)](https://jedworkshop.github.io/jed2022/) (2022/03/18)
     - [「日本語における評価用データセットの構築と利用性の向上」分科会](https://masayu-a.github.io/ELW/ELW2022/JED.html) (2022/09/07)
     - [日本語言語資源の構築と利用性の向上 (JLR2023)](https://jedworkshop.github.io/JLR2023/) (2023/03/17)
+    - [日本語言語資源の構築と利用性の向上 (JLR2024)](https://jedworkshop.github.io/JLR2024/) (2024/03/15)
 - 言語学フェス
     - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
     - [言語学フェス2024](https://sites.google.com/view/lingfes2024) (2024/01/20)
