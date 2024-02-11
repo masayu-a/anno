@@ -100,7 +100,9 @@ ___
 - [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) (2022/10/15 公開)
     - [浅原正幸 (2022) 「日本語の語彙力と読み時間について」 言語処理学会第28回年次大会発表論文集 p.p.430-435](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D3-2.pdf)
     - [Masayuki Asahara (2022) "Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing", Proceedings of the Thirteenth Language Resources and Evaluation Conference](https://aclanthology.org/2022.lrec-1.555)
-- [機能表現辞書「つつじ」に対する単語親密度情報](https://github.com/masayu-a/TSUTSUJI-familiarity) (2023/11/03 公開)
+- [機能表現辞書「つつじ」に対する単語親密度情報](https://github.com/masayu-a/TSUTSUJI-familiarity) (2024/02/11 Version 2.0.0 公開)
+    - [Bocheng Chen and Masayuki Asahara (2023) "Word Familiarity Rate Estimation for Japanese Functional Words Using a Bayesian Linear Mixed Model", Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation](https://aclanthology.org/2023.paclic-1.11/)
+- [漢字親密度情報](https://github.com/masayu-a/KANJI-familiarity) (2024/02/11 Version 1.0.0 公開)
 - 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
     - [加藤祥・浅原正幸 (2022)「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
 - 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
@@ -150,7 +152,9 @@ ___
 
 #### ホンダリサーチインスティチュート 共同研究 (2022,2023)
 - [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
-
+- [地図を刺激に用いた位置情報参照表現](https://github.com/masayu-a/HRI-JP-RIRE-DB)
+- [地図を刺激に用いた経路情報参照表現](https://github.com/masayu-a/HRI-JP-LIRE-DB)
+  
 ## 第３期アノテーションプロジェクト成果物
 
 
