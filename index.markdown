@@ -152,8 +152,11 @@ ___
 
 #### ホンダリサーチインスティチュート 共同研究 (2022,2023)
 - [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
-- [地図を刺激に用いた位置情報参照表現](https://github.com/masayu-a/HRI-JP-RIRE-DB)
-- [地図を刺激に用いた経路情報参照表現](https://github.com/masayu-a/HRI-JP-LIRE-DB)
+- [Spatial Information Annotation Based on the Double Cross Model](https://aclanthology.org/2023.paclic-1.14/) PACLIC 37 (2023) (2023/12/01-2023/12/03)
+- 地図を刺激に用いた位置情報参照表現の収集　大村・川端・小西・浅原・竹内 NLP2024 (2024/03/11-2024/03/15)
+- 地図を刺激に用いた経路情報参照表現の収集　川端・大村・小西・浅原・竹内 NLP2024 (2024/03/11-2024/03/15)
+- [地図を刺激に用いた位置情報参照表現データベース](https://github.com/masayu-a/HRI-JP-RIRE-DB) (2024/03 公開予定)
+- [地図を刺激に用いた経路情報参照表現データベース](https://github.com/masayu-a/HRI-JP-LIRE-DB) (2024/03 公開予定)
   
 ## 第３期アノテーションプロジェクト成果物
 
