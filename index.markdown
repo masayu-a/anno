@@ -34,6 +34,8 @@ ___
     - [大村舞・若狭絢・浅原正幸「国語研長単位に基づく日本語 Universal Dependencies」JNLP 30(1) (2023)](https://doi.org/10.5715/jnlp.30.4)
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
 - [CEJC-DEP](https://github.com/masayu-a/CEJC-DEP/) (2023/01/01 公開)
+    - [Mai Omura, Hiroshi Matsuda, Masayuki Asahara, and Aya Wakasa (2023) "UD_Japanese-CEJC: Dependency Relation Annotation on Corpus of Everyday Japanese Conversation", Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue](https://aclanthology.org/2023.sigdial-1.29/)
+
 - [日本経済新聞記事オープンコーパス](https://nkbb.nikkei.co.jp/alternative/corpus/) (2023/03/13 公開)
     - [プレスリリース](https://prtimes.jp/main/html/rd/p/000000502.000011115.html) (2023/03/13)
 - [『現代語の助詞・助動詞』分類語彙表番号付与版](http://doi.org/10.15084/00003667) (2022/10/25 公開)
@@ -88,7 +90,7 @@ ___
 	- 浅原ほか (2023) 『日本語歴史コーパス』に対する分類語彙表番号アノテーションとその利用, 日本語の研究
     - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース
         - BCCWJ-Simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
-        - [ 加藤祥・菊地礼・浅原正幸 「『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース」27(4) (2021)](https://doi.org/10.5715/jnlp.27.853)
+        - [加藤祥・菊地礼・浅原正幸 「『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース」27(4) (2021)](https://doi.org/10.5715/jnlp.27.853)
     - Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Figurative Expression Information Database on `Balanced Corpus of Contemporary Written Japanese'", 15th Researching and Applying Metaphor Conference (2022/09/21-24)
     - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
         - [加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000009)
