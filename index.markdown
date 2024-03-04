@@ -35,6 +35,8 @@ ___
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
 - [CEJC-DEP](https://github.com/masayu-a/CEJC-DEP/) (2023/01/01 公開)
     - [Mai Omura, Hiroshi Matsuda, Masayuki Asahara, and Aya Wakasa (2023) "UD_Japanese-CEJC: Dependency Relation Annotation on Corpus of Everyday Japanese Conversation", Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue](https://aclanthology.org/2023.sigdial-1.29/)
+- [尾崎太亮・臼井久生・古宮嘉那子・浅原正幸・小木曽智信「日本語 Universal Dependencies の通時的転移可能性について」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-4.pdf)
+- [赤間怜奈・浅原正幸・若狭絢・大村舞・鈴木潤「日本語日常対話コーパスへの基礎解析アノテーション」NLP2024(2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-2.pdf)
 
 - [日本経済新聞記事オープンコーパス](https://nkbb.nikkei.co.jp/alternative/corpus/) (2023/03/13 公開)
     - [プレスリリース](https://prtimes.jp/main/html/rd/p/000000502.000011115.html) (2023/03/13)
@@ -51,7 +53,7 @@ ___
     - [blog](https://www.recruit.co.jp/newsroom/2020/0817_18783.html) (2020/08/17) プレスリリースを含む
     - [UD Japanese CEJC+GSD transfomers-based spaCy model](https://github.com/megagonlabs/UD_Japanese-GSD/releases/tag/nlp2023) (2023/03/24)
 
-#### LegalOn社
+#### LegalOn社 (2021-2023)
 - [vaporetto](https://github.com/daac-tools/vaporetto)
     - [blog](https://tech.legalforce.co.jp/entry/2021/09/28/180844) (2021/09/28)
 - [vibrato](https://github.com/daac-tools/vibrato)
@@ -82,12 +84,17 @@ ___
         - [BCCWJ-WLSP](https://github.com/masayu-a/BCCWJ-WLSP) (2019/09/17 公開)
         - [BCCWJ-WLSP-AUX-OT](https://github.com/masayu-a/BCCWJ-WLSP-AUX-OT) (2023/10/05 公開)
 	- BCCWJ-WLSP-AUX-OT [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から形態論情報つきデータが得られます
-    - 『現代日本語書き言葉均衡コーパス』分類語彙表番号自動解析済みデータ
+    - 『現代日本語書き言葉均衡コーパス』分類語彙表番号自動解析済みデータ[doi](https://doi.org/10.15084/0002000166)
         - [BCCWJ-WSD-frequency](https://github.com/masayu-a/BCCWJ-WSD-frequency/) (2024/01/12 公開)
+        - [浅田宗磨・古宮嘉那子・浅原正幸「『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号悉皆付与」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/C10-3.pdf)
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
         - [CHJ-WLSP](https://github.com/masayu-a/CHJ-WLSP) (2023/10/29 公開)
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
 	- 浅原ほか (2023) 『日本語歴史コーパス』に対する分類語彙表番号アノテーションとその利用, 日本語の研究
+    - 『日本語日常会話コーパス』分類語彙表番号自動解析済みデータ [doi](
+https://doi.org/10.15084/0002000167)
+      - [CEJC-WSD-frequency](https://github.com/masayu-a/CEJC-WSD-frequency) (2024/02/08 公開)
+    - [加藤祥・浅原正幸「『日本経済新聞記事オープンコーパス』に対するメタデータと語義情報付与」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-8.pdf)
     - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース
         - BCCWJ-Simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
         - [加藤祥・菊地礼・浅原正幸 「『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース」27(4) (2021)](https://doi.org/10.5715/jnlp.27.853)
@@ -144,7 +151,7 @@ ___
 - [BCCWJ-PB9X3meta](https://github.com/masayu-a/BCCWJ-PB9X3meta/) (2023/09/03 version 1.0 リリース)    
     - [加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』の小説サンプルに対する分類情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000013)
 - [BCCWJ-PNmeta](https://github.com/masayu-a/BCCWJ-PNmeta/) (2023/08/24 version 2.0 リリース)
-    - 加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』新聞サブコーパスの記事情報付与」日本語の研究
+    - [加藤祥・浅原正幸「『現代日本語書き言葉均衡コーパス』新聞サブコーパスの記事情報付与」日本語の研究](https://doi.org/10.20666/nihongonokenkyu.19.2_206)
 
 #### SB Intuitions社(LINE 社) 共同研究 (2022-)
 - [日本語有害表現スキーマの提案と評価](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D4-1.pdf) NLP2023 小林様ほか (2023/03/13-2023/03/17)
@@ -155,10 +162,11 @@ ___
 #### ホンダリサーチインスティチュート 共同研究 (2022,2023)
 - [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
 - [Spatial Information Annotation Based on the Double Cross Model](https://aclanthology.org/2023.paclic-1.14/) PACLIC 37 (2023) (2023/12/01-2023/12/03)
-- 地図を刺激に用いた位置情報参照表現の収集　大村・川端・小西・浅原・竹内 NLP2024 (2024/03/11-2024/03/15)
 - 地図を刺激に用いた経路情報参照表現の収集　川端・大村・小西・浅原・竹内 NLP2024 (2024/03/11-2024/03/15)
-- [地図を刺激に用いた位置情報参照表現データベース](https://github.com/masayu-a/HRI-JP-RIRE-DB) (2024/03 公開予定)
-- [地図を刺激に用いた経路情報参照表現データベース](https://github.com/masayu-a/HRI-JP-LIRE-DB) (2024/03 公開予定)
+- [地図を刺激に用いた位置情報参照表現データベース](https://github.com/masayu-a/HRI-JP-RIRE-DB) (2024/03/04 公開)
+  - [大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽 (2024)「地図を刺激に用いた位置情報参照表現の収集」 第30回言語処理学会年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-24.pdf) 
+- [地図を刺激に用いた経路情報参照表現データベース](https://github.com/masayu-a/HRI-JP-LIRE-DB) (2024/03/04 公開)
+  - [川端 良子・大村 舞・小西 光・浅原 正幸・竹内 誉羽 (2024)「地図を刺激に用いた経路情報参照表現の収集」 第30回言語処理学会年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-1.pdf)
   
 ## 第３期アノテーションプロジェクト成果物
 
