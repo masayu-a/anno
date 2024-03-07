@@ -88,6 +88,7 @@ ___
         - [BCCWJ-WSD-frequency](https://github.com/masayu-a/BCCWJ-WSD-frequency/) (2024/01/12 公開)
         - [浅田宗磨・古宮嘉那子・浅原正幸「『現代日本語書き言葉均衡コーパス』に対する分類語彙表番号悉皆付与」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/C10-3.pdf)
         - 自動解析済みデータ BCCWJ-WSD (version 202403) (2024/03/05) を中納言ダウンロードサーバより公開
+        - BCCWJ-WSD-PNmeta-frequency (2024/03/07) を中納言ダウンロードサーバより公開
     - 『日本語歴史コーパス』に対する分類語彙表番号アノテーション
         - [CHJ-WLSP](https://github.com/masayu-a/CHJ-WLSP) (2023/10/29 公開)
         - [Asahara et al. (2022) "CHJ-WLSP: Annotation of ‘Word List by Semantic Principles’ Labels for the Corpus of Historical Japanese", Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages](https://aclanthology.org/2022.lt4hala-1.5)
