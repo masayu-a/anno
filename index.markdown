@@ -112,9 +112,9 @@ https://doi.org/10.15084/0002000167)
 - [『現代日本語書き言葉均衡コーパス』に対する読み時間データ](https://github.com/masayu-a/BCCWJ-SPR2) (2022/10/15 公開)
     - [浅原正幸 (2022) 「日本語の語彙力と読み時間について」 言語処理学会第28回年次大会発表論文集 p.p.430-435](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/D3-2.pdf)
     - [Masayuki Asahara (2022) "Reading Time and Vocabulary Rating in the Japanese Language: Large-Scale Japanese Reading Time Data Collection Using Crowdsourcing", Proceedings of the Thirteenth Language Resources and Evaluation Conference](https://aclanthology.org/2022.lrec-1.555)
-- [機能表現辞書「つつじ」に対する単語親密度情報](https://github.com/masayu-a/TSUTSUJI-familiarity) (2024/02/11 Version 2.0.0 公開)
+- [機能表現辞書「つつじ」に対する単語親密度情報 (TSUTSUJI-familiarity)](https://github.com/masayu-a/TSUTSUJI-familiarity) (2024/02/11 Version 2.0.0 公開)
     - [Bocheng Chen and Masayuki Asahara (2023) "Word Familiarity Rate Estimation for Japanese Functional Words Using a Bayesian Linear Mixed Model", Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation](https://aclanthology.org/2023.paclic-1.11/)
-- [漢字親密度情報](https://github.com/masayu-a/KANJI-familiarity) (2024/02/11 Version 1.0.0 公開)
+- [漢字親密度情報 (KANJI-familiarity)](https://github.com/masayu-a/KANJI-familiarity) (2024/02/11 Version 1.0.0 公開)
 - 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
     - [加藤祥・浅原正幸 (2022)「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
 - 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
@@ -124,6 +124,8 @@ https://doi.org/10.15084/0002000167)
 ### その他
 #### 学会関連
 - [NAACL-2024 Resources and Evaluation Senior Area Chair](https://2024.naacl.org/committees/program/)
+- [The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Program Comittee member ](https://lrec-coling-2024.org/)
+- [1st International Workshop on Ancient Language Processing (ALP) at RANLP, Program Comittee member](https://www.ancientnlp.com/alp2023/)
 - [LREC-2022 Corpora and Annotation Area Chair](https://lrec2022.lrec-conf.org/en/committees/area-chairs/) 
 - [AACL-IJCNLP 2022 Resources and Evaluation Senior Area Chair](https://www.aacl2022.org/Committee/Senior-Area-Chairs)
 - [言語処理学会論文誌副編集長](https://www.anlp.jp/guide/editors.html)
@@ -165,9 +167,9 @@ https://doi.org/10.15084/0002000167)
 #### ホンダリサーチインスティチュート 共同研究 (2022,2023)
 - [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
 - [Spatial Information Annotation Based on the Double Cross Model](https://aclanthology.org/2023.paclic-1.14/) PACLIC 37 (2023) (2023/12/01-2023/12/03)
-- [地図を刺激に用いた位置情報参照表現データベース](https://github.com/masayu-a/HRI-JP-RIRE-DB) (2024/03/04 公開)
+- [地図を刺激に用いた位置情報参照表現データベース (HRI-JP-LIRE-DB)](https://github.com/masayu-a/HRI-JP-LIRE-DB) (2024/03/04 公開)
   - [大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽 (2024)「地図を刺激に用いた位置情報参照表現の収集」 第30回言語処理学会年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-24.pdf) 
-- [地図を刺激に用いた経路情報参照表現データベース](https://github.com/masayu-a/HRI-JP-LIRE-DB) (2024/03/04 公開)
+- [地図を刺激に用いた経路情報参照表現データベース (HRI-JP-RIRE-DB)](https://github.com/masayu-a/HRI-JP-RIRE-DB) (2024/03/04 公開)
   - [川端 良子・大村 舞・小西 光・浅原 正幸・竹内 誉羽 (2024)「地図を刺激に用いた経路情報参照表現の収集」 第30回言語処理学会年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-1.pdf)
   
 ## 第３期アノテーションプロジェクト成果物
