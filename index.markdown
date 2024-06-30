@@ -97,6 +97,10 @@ ___
 https://doi.org/10.15084/0002000167)
       - [CEJC-WSD-frequency](https://github.com/masayu-a/CEJC-WSD-frequency) (2024/02/08 公開)
       - 自動解析済みデータ CEJC-WSD (version 202403) (2024/03/05) を中納言ダウンロードサーバより公開
+    - 『中国語・韓国語母語の日本語学習者縦断発話コーパス』(C-JAS) 分類語彙表番号自動解析済みデータ (version 202406) (2024/06/20 公開)
+      - 中納言ダウンロードサーバより公開 
+    - 『多言語母語の日本語学習者横断コーパス』(I-JAS) 分類語彙表番号自動解析済みデータ (version 202406) (2024/06/20 公開)
+      - 中納言ダウンロードサーバより公開 
     - [加藤祥・浅原正幸「『日本経済新聞記事オープンコーパス』に対するメタデータと語義情報付与」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-8.pdf)
     - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース
         - BCCWJ-Simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
@@ -120,6 +124,7 @@ https://doi.org/10.15084/0002000167)
 - 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
     - [浅原正幸・加藤祥・高松純子(2023)「『日本経済新聞記事オープンコーパス』に対する言語受容情報収集」2023年度日本認知科学会第40回大会 p.p. 302-305](https://www.jcss.gr.jp/meetings/jcss2023/proceedings/pdf/JCSS2023_P2-001.pdf)
 - 認知実験用サーバ（2023年度運用開始）
+- [WLSP-familiarity Version 4.0](https://github.com/masayu-a/WLSP-familiarity) (2024/06/30 公開)
 
 ### その他
 #### 学会関連
