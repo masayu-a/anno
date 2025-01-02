@@ -27,6 +27,7 @@ ___
 
 - [https://universaldependencies.org/](https://universaldependencies.org/)
 - [UD Japanese](https://universaldependencies.org/#japanese-treebanks)
+    - [言語処理学会30周年記念論文賞, Universal Dependencies 日本語コーパス](https://www.anlp.jp/anniversary/30th_anniversary_paper_award.html) (2024/10/19)
     - [UD_Japanese-CEJCLUW](https://github.com/udjapanese/UD_Japanese-CEJCLUW) (v2.11 2023/01/01 公開)
     - [UD_Japanese-CEJCSUW](https://github.com/udjapanese/UD_Japanese-CEJCSUW) (v2.11 2023/01/01 公開)
     - [Universal Dependencies ドキュメント（日本語版）](https://masayu-a.github.io/UD_Japanese-docs/)
@@ -35,6 +36,7 @@ ___
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
 - [CEJC-DEP](https://github.com/masayu-a/CEJC-DEP/) (2023/01/01 公開)
     - [Mai Omura, Hiroshi Matsuda, Masayuki Asahara, and Aya Wakasa (2023) "UD_Japanese-CEJC: Dependency Relation Annotation on Corpus of Everyday Japanese Conversation", Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue](https://aclanthology.org/2023.sigdial-1.29/)
+    - 大村舞・若狭絢・松田寛・浅原正幸 「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」 JNLP 32 (1) (2025/03/15)
 - [尾崎太亮・臼井久生・古宮嘉那子・浅原正幸・小木曽智信「日本語 Universal Dependencies の通時的転移可能性について」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-4.pdf)
 - [赤間怜奈・浅原正幸・若狭絢・大村舞・鈴木潤「日本語日常対話コーパスへの基礎解析アノテーション」NLP2024(2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-2.pdf)
 
@@ -123,11 +125,17 @@ https://doi.org/10.15084/0002000167)
     - [加藤祥・浅原正幸 (2022)「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
 - 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
     - [浅原正幸・加藤祥・高松純子(2023)「『日本経済新聞記事オープンコーパス』に対する言語受容情報収集」2023年度日本認知科学会第40回大会 p.p. 302-305](https://www.jcss.gr.jp/meetings/jcss2023/proceedings/pdf/JCSS2023_P2-001.pdf)
-- 認知実験用サーバ（2023年度運用開始）
 - [WLSP-familiarity Version 4.0](https://github.com/masayu-a/WLSP-familiarity) (2024/06/30 公開)
+- [WLSP-SchoolGrade Version 1.0](https://github.com/masayu-a/WLSP-SchoolGrade) (2025/01/01 公開)
+- Kato and Asahara (2024) "Assigning Impression Rating Information to the `Balanced Corpus of Contemporary Written Japanese', Proceedings of the 38th Pacific Asia Conference on Language, Information and Computation
 
 ### その他
 #### 学会関連
+- ALP 2025: Second Workshop on Ancient Language Processing, Program Committee Member
+- The 31st International Conference on Computational Linguistics COLING 2025, Program Committee Member
+- EMNLP 2024 Workshop, The Eighth Widening NLP Workshop (WiNLP 2024), Program Committee Member
+- [EMNLP-2024 Resources and Evaluation](https://2024.emnlp.org/committees/program/) Outstanding Senior Area Chairs
+- ACL 2024 Workshop: Machine Learning for Ancient Languages, Program Committee Member
 - [NAACL-2024 Resources and Evaluation Senior Area Chair](https://2024.naacl.org/committees/program/)
 - [The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Program Comittee member ](https://lrec-coling-2024.org/)
 - [1st International Workshop on Ancient Language Processing (ALP) at RANLP, Program Comittee member](https://www.ancientnlp.com/alp2023/)
@@ -138,6 +146,7 @@ https://doi.org/10.15084/0002000167)
         - 言語処理分野において、年次大会・国際会議・論文誌に投稿する際の注意点をまとめたもの。
     - [言語処理学会論文誌「自然言語処理」における剽窃検知ツールの導入](https://anlp.jp/guide/guideline.html)
             - 言語処理学会論文誌「自然言語処理」の査読において剽窃検知ツールを導入するとともに、「自然言語処理」全巻号全記事を Similarity Check Database に登録した。(2022/12/25)
+    - [論文誌『自然言語処理』投稿の手引き：第 30 回年次大会　編集委員会ランチタイム企画](https://doi.org/10.5715/jnlp.31.1411) (2024/09/15)	    
 
 #### 国語研日本語ウェブコーパス
 - [『国語研日本語ウェブコーパス』中納言搭載データ語彙表](http://doi.org/10.15084/00003666) (2022/10/25 公開)
@@ -146,14 +155,18 @@ https://doi.org/10.15084/0002000167)
 - [Evidence-based Linguistics Workshop](https://masayu-a.github.io/ELW/)
     - [Evidence-based Linguistics Workshop 2022](https://masayu-a.github.io/ELW/ELW2022/)
     - [Evidence-based Linguistics Workshop 2023](https://masayu-a.github.io/ELW/ELW2023/)    
+    - [Evidence-based Linguistics Workshop 2024](https://masayu-a.github.io/ELW/ELW2024/)
+    - [Evidence-based Linguistics Workshop 2025](https://masayu-a.github.io/ELW/ELW2025/)        
 - 「日本語における評価用データセットの構築と利用性の向上」
     - [日本語における評価用データセットの構築と利用性の向上 (JED2022)](https://jedworkshop.github.io/jed2022/) (2022/03/18)
     - [「日本語における評価用データセットの構築と利用性の向上」分科会](https://masayu-a.github.io/ELW/ELW2022/JED.html) (2022/09/07)
     - [日本語言語資源の構築と利用性の向上 (JLR2023)](https://jedworkshop.github.io/JLR2023/) (2023/03/17)
     - [日本語言語資源の構築と利用性の向上 (JLR2024)](https://jedworkshop.github.io/JLR2024/) (2024/03/15)
+    - [日本語言語資源の構築と利用性の向上 (JLR2025)](https://jedworkshop.github.io/JLR2025/) (2025/03/14)    
 - 言語学フェス
     - [言語学フェス2023](https://sites.google.com/view/lingfes2023) (2023/01/28)
     - [言語学フェス2024](https://sites.google.com/view/lingfes2024) (2024/01/20)
+    - [言語学フェス2025](https://sites.google.com/view/lingfes2025) (2025/02/01)    
 
 #### 科研費：[文体分析を目的としたコーパスの文書情報拡張及びその利用 (2018-2022)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-18K00634/)
 - [BCCWJ-NDC](https://github.com/masayu-a/BCCWJ-NDC/) (2020/04/10 version 1.0 リリース)
@@ -172,10 +185,12 @@ https://doi.org/10.15084/0002000167)
 #### ホンダリサーチインスティチュート 共同研究 (2022,2023)
 - [Double cross model による位置情報フレームアノテーション](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B11-3.pdf) NLP2023 (2023/03/13-2023/03/17)
 - [Spatial Information Annotation Based on the Double Cross Model](https://aclanthology.org/2023.paclic-1.14/) PACLIC 37 (2023) (2023/12/01-2023/12/03)
+- [Double Cross Model に基づく相対位置情報アノテーション](Ihttps://doi.org/10.5715/jnlp.31.1356) (2024/09/15)
 - [地図を刺激に用いた位置情報参照表現データベース (HRI-JP-LIRE-DB)](https://github.com/masayu-a/HRI-JP-LIRE-DB) (2024/03/04 公開)
   - [大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽 (2024)「地図を刺激に用いた位置情報参照表現の収集」 第30回言語処理学会年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-24.pdf) 
 - [地図を刺激に用いた経路情報参照表現データベース (HRI-JP-RIRE-DB)](https://github.com/masayu-a/HRI-JP-RIRE-DB) (2024/03/04 公開)
   - [川端 良子・大村 舞・小西 光・浅原 正幸・竹内 誉羽 (2024)「地図を刺激に用いた経路情報参照表現の収集」 第30回言語処理学会年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-1.pdf)
+  - Kawabata et. al. (2024) `Collection of Japanese Route Information Reference Expressions Using Maps as Stimuli, Proceedings of the 4th Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP 2024)
   
 ## 第３期アノテーションプロジェクト成果物
 
