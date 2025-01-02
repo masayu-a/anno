@@ -134,7 +134,7 @@ https://doi.org/10.15084/0002000167)
 - ALP 2025: Second Workshop on Ancient Language Processing, Program Committee Member
 - The 31st International Conference on Computational Linguistics COLING 2025, Program Committee Member
 - EMNLP 2024 Workshop, The Eighth Widening NLP Workshop (WiNLP 2024), Program Committee Member
-- [EMNLP-2024 Resources and Evaluation](https://2024.emnlp.org/committees/program/) Outstanding Senior Area Chairs
+- [EMNLP-2024 Resources and Evaluation Senior Area Chair](https://2024.emnlp.org/committees/program/)  [Outstanding Senior Area Chairs](https://x.com/emnlpmeeting/status/1857169229172326769)
 - ACL 2024 Workshop: Machine Learning for Ancient Languages, Program Committee Member
 - [NAACL-2024 Resources and Evaluation Senior Area Chair](https://2024.naacl.org/committees/program/)
 - [The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Program Comittee member ](https://lrec-coling-2024.org/)
