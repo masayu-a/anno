@@ -36,7 +36,7 @@ ___
 - [UD_Japanese-GSDPUD-CaboCha](https://github.com/masayu-a/UD_Japanese-GSDPUD-CaboCha)
 - [CEJC-DEP](https://github.com/masayu-a/CEJC-DEP/) (2023/01/01 公開)
     - [Mai Omura, Hiroshi Matsuda, Masayuki Asahara, and Aya Wakasa (2023) "UD_Japanese-CEJC: Dependency Relation Annotation on Corpus of Everyday Japanese Conversation", Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue](https://aclanthology.org/2023.sigdial-1.29/)
-    - 大村舞・若狭絢・松田寛・浅原正幸 「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」 JNLP 32 (1) (2025/03/15)
+    - [大村舞・若狭絢・松田寛・浅原正幸 「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」 JNLP 32 (1)](https://doi.org/10.5715/jnlp.32.55) (2025/03/15)
 - [尾崎太亮・臼井久生・古宮嘉那子・浅原正幸・小木曽智信「日本語 Universal Dependencies の通時的転移可能性について」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-4.pdf)
 - [赤間怜奈・浅原正幸・若狭絢・大村舞・鈴木潤「日本語日常対話コーパスへの基礎解析アノテーション」NLP2024(2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-2.pdf)
 
