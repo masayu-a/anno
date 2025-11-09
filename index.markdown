@@ -47,6 +47,8 @@ ___
   "Structure Modeling Approach for UD Parsing of Historical Modern Japanese",  
   The 1st Joint Workshop on Large Language Models and Structure Modeling (ACL 2025). ](https://doi.org/10.18653/v1/2025.xllm-1.12)
 
+#### その他
+
 - [日本経済新聞記事オープンコーパス](https://nkbb.nikkei.co.jp/alternative/corpus/) (2023/03/13 公開)
     - [プレスリリース](https://prtimes.jp/main/html/rd/p/000000502.000011115.html) (2023/03/13)
 - [『現代語の助詞・助動詞』分類語彙表番号付与版](http://doi.org/10.15084/00003667) (2022/10/25 公開)
@@ -75,6 +77,8 @@ ___
     - [プレスリリース](https://www.worksap.co.jp/news/2022/0225/) (2022/02/25)
 
 ### 意味班
+
+#### 分類語彙表（語義）
 
 - [分類語彙表の紹介](https://clrd.ninjal.ac.jp/goihyo.html)
     - [初版 pdf](http://doi.org/10.15084/00002267)
@@ -109,16 +113,30 @@ https://doi.org/10.15084/0002000167)
     - 『中国語・韓国語母語の日本語学習者縦断発話コーパス』(C-JAS) 分類語彙表番号自動解析済みデータ (version 202406) (2024/06/20 公開)
       - 中納言ダウンロードサーバより公開 
     - 『多言語母語の日本語学習者横断コーパス』(I-JAS) 分類語彙表番号自動解析済みデータ (version 202406) (2024/06/20 公開)
-      - 中納言ダウンロードサーバより公開 
+      - 中納言ダウンロードサーバより公開
+  　- Kanako Komiya, Soma Asada, Masayuki Asahara (2025),   "Automatic Tagging of Word Senses for a Large-Scale Historical Japanese Corpus",  Digital Humanities Conference 2025 (DH 2025).
+　　- Soma Asada, Kanako Komiya, Masayuki Asahara,
+  　　"Large-Scale Word Sense Tagging in Contemporary Japanese: An All-Words Word Sense Disambiguation Approach for 180 Million Words",
+  　　Transactions on Asian and Low-Resource Language Information Processing
     - [加藤祥・浅原正幸「『日本経済新聞記事オープンコーパス』に対するメタデータと語義情報付与」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-8.pdf)
-    - 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース
-        - BCCWJ-Simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
-        - [加藤祥・菊地礼・浅原正幸 「『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース」27(4) (2021)](https://doi.org/10.5715/jnlp.27.853)
-    - Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Figurative Expression Information Database on `Balanced Corpus of Contemporary Written Japanese'", 15th Researching and Applying Metaphor Conference (2022/09/21-24)
-    - [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
-        - [加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000009)
-    - [加藤祥・浅原正幸「比喩指標の収集と喩辞と被喩辞の同一性否定の観点による分類」 認知科学](https://doi.org/10.11225/cs.2023.062)
-    - BCCWJ-TimeBank (version 3.0.0) (2023/10/29) 中納言ダウンロードサーバより公開
+
+#### 比喩表現
+- 『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース
+  - BCCWJ-Simile [『中納言』ダウンロードサイト](https://bccwj-data.ninjal.ac.jp/)から得てください。
+  - [加藤祥・菊地礼・浅原正幸 「『現代日本語書き言葉均衡コーパス』に基づく指標比喩データベース」27(4) (2021)](https://doi.org/10.5715/jnlp.27.853)
+  - Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Figurative Expression Information Database on `Balanced Corpus of Contemporary Written Japanese'", 15th Researching and Applying Metaphor Conference (2022/09/21-24)
+- [『比喩表現の理論と分類』データベース版](http://doi.org/10.15084/00003669) (2022/10/25 公開)
+  - [加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000009)
+  - [加藤祥・浅原正幸「比喩指標の収集と喩辞と被喩辞の同一性否定の観点による分類」 認知科学](https://doi.org/10.11225/cs.2023.062)
+- 『現代日本語書き言葉均衡コーパス』に基づく結合比喩データベース
+
+- 発表・論文
+  - Hang Zhu, Rowan Hall Maudslay, Kanako Komiya, Sachi Kato and Masayuki Asahara (2025),
+  "Large-Scale Japanese Metaphor Corpus Construction: Expanding BCCWJ-Metaphor with Automated Annotation",
+  Proceedings of PACLIC39: The 39th Pacific Asia Conference on Language, Information and Computation
+
+#### 時間情報
+- BCCWJ-TimeBank (version 3.0.0) (2023/10/29) 中納言ダウンロードサーバより公開
        
 ### 認知班
 
@@ -128,8 +146,11 @@ https://doi.org/10.15084/0002000167)
 - [機能表現辞書「つつじ」に対する単語親密度情報 (TSUTSUJI-familiarity)](https://github.com/masayu-a/TSUTSUJI-familiarity) (2024/02/11 Version 2.0.0 公開)
     - [Bocheng Chen and Masayuki Asahara (2023) "Word Familiarity Rate Estimation for Japanese Functional Words Using a Bayesian Linear Mixed Model", Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation](https://aclanthology.org/2023.paclic-1.11/)
 - [漢字親密度情報 (KANJI-familiarity)](https://github.com/masayu-a/KANJI-familiarity) (2024/02/11 Version 1.0.0 公開)
+　　- 浅原 正幸 (2025), 「Bayesian Linear Mixed Model に基づく漢字親密度推定の試みーー言語資源としての統計モデルの検討」, 『日本語・日本学研究』, 15号, pp.1-20. 東京外国語大学国際日本研究センター.　[【doi】](https://doi.org/10.15026/0002001137)
 - 『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与
     - [加藤祥・浅原正幸 (2022)「『現代日本語書き言葉均衡コーパス』に対する印象評定情報付与」言語処理学会第28回年次大会発表論文集 p.p.1524-1529](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT3-3.pdf)
+    - Sachi Kato, Masayuki Asahara (2024), "Assigning Impression Rating Information to the 'Balanced Corpus of Contemporary Written Japanese'", Proceedings of PACLIC 38.
+
 - 『日本経済新聞記事オープンコーパス』に対する言語受容情報収集
     - [浅原正幸・加藤祥・高松純子(2023)「『日本経済新聞記事オープンコーパス』に対する言語受容情報収集」2023年度日本認知科学会第40回大会 p.p. 302-305](https://www.jcss.gr.jp/meetings/jcss2023/proceedings/pdf/JCSS2023_P2-001.pdf)
 - [WLSP-familiarity Version 4.0](https://github.com/masayu-a/WLSP-familiarity) (2024/06/30 公開)
@@ -198,6 +219,10 @@ https://doi.org/10.15084/0002000167)
 - [地図を刺激に用いた経路情報参照表現データベース (HRI-JP-RIRE-DB)](https://github.com/masayu-a/HRI-JP-RIRE-DB) (2024/03/04 公開)
   - [川端 良子・大村 舞・小西 光・浅原 正幸・竹内 誉羽 (2024)「地図を刺激に用いた経路情報参照表現の収集」 第30回言語処理学会年次大会(NLP2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P5-1.pdf)
   - Kawabata et. al. (2024) `Collection of Japanese Route Information Reference Expressions Using Maps as Stimuli, Proceedings of the 4th Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP 2024)
+  -　大村 舞・川端 良子・小西 光・浅原 正幸・竹内 誉羽 (2025),  
+  「地図を刺激に用いた位置情報・経路情報参照表現の収集」,  
+  『自然言語処理』, 第32巻第2号.  [【doi】](https://doi.org/10.5715/jnlp.32.660)
+
   
 ## 第３期アノテーションプロジェクト成果物
 
