@@ -25,6 +25,7 @@ ___
 
 ### 統語班（企業との共同研究も含む）
 
+#### Universal Dependencies 関連
 - [https://universaldependencies.org/](https://universaldependencies.org/)
 - [UD Japanese](https://universaldependencies.org/#japanese-treebanks)
     - [言語処理学会30周年記念論文賞, Universal Dependencies 日本語コーパス](https://www.anlp.jp/anniversary/30th_anniversary_paper_award.html) (2024/10/19)
@@ -39,6 +40,12 @@ ___
     - [大村舞・若狭絢・松田寛・浅原正幸 「日本語日常会話コーパスの Universal Dependencies: UD_Japanese-CEJC」 JNLP 32 (1)](https://doi.org/10.5715/jnlp.32.55) (2025/03/15)
 - [尾崎太亮・臼井久生・古宮嘉那子・浅原正幸・小木曽智信「日本語 Universal Dependencies の通時的転移可能性について」NLP2024 (2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P6-4.pdf)
 - [赤間怜奈・浅原正幸・若狭絢・大村舞・鈴木潤「日本語日常対話コーパスへの基礎解析アノテーション」NLP2024(2024)](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B10-2.pdf)
+- [Hiroshi Matsuda, Chunpeng Ma, Masayuki Asahara (2025),
+  "Step-by-step Instructions and a Simple Tabular Output Format Improve the Dependency Parsing Accuracy of LLMs",
+  Proceedings of the 18th International Conference on Parsing Technologies (IWPT, SyntaxFest 2025).](https://aclanthology.org/2025.iwpt-1.2/)
+- [Hiroaki Ozaki, Mai Omura, Kanako Komiya, Masayuki Asahara, Toshinobu Ogiso (2025),  
+  "Structure Modeling Approach for UD Parsing of Historical Modern Japanese",  
+  The 1st Joint Workshop on Large Language Models and Structure Modeling (ACL 2025). ](https://doi.org/10.18653/v1/2025.xllm-1.12)
 
 - [日本経済新聞記事オープンコーパス](https://nkbb.nikkei.co.jp/alternative/corpus/) (2023/03/13 公開)
     - [プレスリリース](https://prtimes.jp/main/html/rd/p/000000502.000011115.html) (2023/03/13)
