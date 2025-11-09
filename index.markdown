@@ -1,11 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: Index
----
----
 layout: home
 title: Index
 ---
@@ -143,6 +136,7 @@ title: Index
     - [浅原正幸・加藤祥・高松純子 (2023) 「『日本経済新聞記事オープンコーパス』に対する言語受容情報収集」 2023年度日本認知科学会第40回大会 p.p.302-305](https://www.jcss.gr.jp/meetings/jcss2023/proceedings/pdf/JCSS2023_P2-001.pdf)
 - [WLSP-familiarity Version 4.0](https://github.com/masayu-a/WLSP-familiarity)（2024/06/30 公開）
 - [WLSP-SchoolGrade Version 1.0](https://github.com/masayu-a/WLSP-SchoolGrade)（2025/01/01 公開）
+- [WLSP-norms Version 1.0](https://github.com/masayu-a/WLSP-norms) (2025/11/10 公開)
 
 ### その他
 
