@@ -53,7 +53,7 @@ title: Index
     - [blog](https://www.recruit.co.jp/newsroom/2020/0817_18783.html)（2020/08/17、プレスリリースを含む）
     - [UD Japanese CEJC+GSD transformers-based spaCy model](https://github.com/megagonlabs/UD_Japanese-GSD/releases/tag/nlp2023)（2023/03/24）
 
-#### LegalOn社 (2021–2023)
+#### LegalOn社 (2021–2023) /　シェルパアンドカンパニー社 (2024-2028) 
 - [vaporetto](https://github.com/daac-tools/vaporetto)
     - [blog](https://tech.legalforce.co.jp/entry/2021/09/28/180844)（2021/09/28）
 - [vibrato](https://github.com/daac-tools/vibrato)
