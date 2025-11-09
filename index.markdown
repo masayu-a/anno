@@ -115,6 +115,7 @@ title: Index
     - [加藤祥・浅原正幸「『比喩表現の理論と分類』データの電子化と情報付与」国立国語研究所論集](https://doi.org/10.15084/0002000009)
     - [加藤祥・浅原正幸「比喩指標の収集と喩辞と被喩辞の同一性否定の観点による分類」 認知科学](https://doi.org/10.11225/cs.2023.062)
 - 『現代日本語書き言葉均衡コーパス』に基づく結合比喩データベース
+　　-　Sachi Kato, Rei Kikuchi, Masayuki Asahara, "Expert Annotation and Crowdsourced Ratings of Figurative Expressions: A Study Using BCCWJ-Metaphor: A Cross-Domain Japanese Corpus of Books, Magazines, and Newspapers", Researching and Applying Metaphor 17 (2025/08/07-10)
 - 発表・論文
     - Hang Zhu, Rowan Hall Maudslay, Kanako Komiya, Sachi Kato, Masayuki Asahara (2025), "Large-Scale Japanese Metaphor Corpus Construction: Expanding BCCWJ-Metaphor with Automated Annotation", Proceedings of PACLIC 39: The 39th Pacific Asia Conference on Language, Information and Computation
 
